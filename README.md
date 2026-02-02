@@ -1,7 +1,7 @@
 # My C# OOP Project
 
 📌 Description
-This project demonstrates core Object-Orieb=nted Programming (OOP) principles in C# using with Visual Studio 2022. It includes examples of inheritance, encapsulation, polymorphism, and abstraction.
+This project demonstrates core Object-Oriented Programming (OOP) principles in C# using with Visual Studio 2022. It includes examples of inheritance, encapsulation, polymorphism, and abstraction.
 
 ⚙️ How to Run
 1. Clone the repo 
